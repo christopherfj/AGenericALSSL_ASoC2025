@@ -2,6 +2,6 @@
 
 by Christopher A. Flores, and Rodrigo Verschae
 
-\texttt{{christopher.flores, rodrigo.verschae}@uoh.cl}
+`{christopher.flores, rodrigo.verschae}@uoh.cl`
 
 Submitted to *Expert Systems with Applications*, 2023
