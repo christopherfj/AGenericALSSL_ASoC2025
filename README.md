@@ -4,4 +4,4 @@ Christopher Flores and Rodrigo Verschae
 
 {christopher.flores, rodrigo.verschae}@uoh.cl
 
-Expert Systems with Applications 2023
+Submitted to *Expert Systems with Applications*, 2023
