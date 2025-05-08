@@ -2,4 +2,4 @@
 
 by Christopher A. Flores, and Rodrigo Verschae
 
-Submitted to *Expert Systems with Applications*, 2023
+Submitted to *[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)*, 2025
